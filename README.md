@@ -1,4 +1,6 @@
 # Simple-Cryptographer
+<img width="1158" height="787" alt="Screenshot 2026-09-26 154032" src="https://github.com/user-attachments/assets/947c5164-ffb5-4e40-b717-cb27cf244197" />
+
 This repo consists of a Python Cryptography Application (CLI, GUI, EXECUTABLE)
 The program is solely built on python and serves as a way to encrypt and decrypt messages.
 
@@ -61,7 +63,10 @@ GUI version of the program can be directly opened through the `.exe` file in the
 **Test Edge Cases:** Input numbers, special characters or empty strings, all of these could be tackled by the `run_safely` wrapper and alpha-checks. Any kind of crash can be tackled through the help of try and except blocks too.
 
 # Screenshots
-<img width="1318" height="1790" alt="#1-vtpj" src="https://github.com/user-attachments/assets/0c97ce68-1761-4c1d-adad-ccbe56e23428"/>
+<img width="1360" height="1790" alt="#1-vtpj" src="https://github.com/user-attachments/assets/121f4472-578a-4ece-b19a-06484ddcb4d4" />
+
 <img width="1157" height="788" alt="#2-vtpj" src="https://github.com/user-attachments/assets/7ac81c1a-b743-4366-b7c5-c1e3bcfefa14" />
+
 <img width="1156" height="788" alt="#3-vtpj" src="https://github.com/user-attachments/assets/3028a1b7-abd2-4b44-84ee-bfa74ed5f083" />
+
 <img width="1161" height="785" alt="#4-vtpj" src="https://github.com/user-attachments/assets/7bd8730f-3c49-4e3c-8de4-32ad94dcc122" />
