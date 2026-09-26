@@ -65,8 +65,6 @@ GUI version of the program can be directly opened through the `.exe` file in the
 # Screenshots
 <img width="1360" height="1790" alt="#1-vtpj" src="https://github.com/user-attachments/assets/121f4472-578a-4ece-b19a-06484ddcb4d4" />
 
-<img width="1157" height="788" alt="#2-vtpj" src="https://github.com/user-attachments/assets/7ac81c1a-b743-4366-b7c5-c1e3bcfefa14" />
-
 <img width="1156" height="788" alt="#3-vtpj" src="https://github.com/user-attachments/assets/3028a1b7-abd2-4b44-84ee-bfa74ed5f083" />
 
 <img width="1161" height="785" alt="#4-vtpj" src="https://github.com/user-attachments/assets/7bd8730f-3c49-4e3c-8de4-32ad94dcc122" />
