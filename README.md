@@ -33,22 +33,22 @@ All of the supported Ciphers are given below:
 - **Python 3.10+** : Core Programming Language
 - **Tkinter** : Standard Python GUI toolkit used for creation of GUI and windows
 - **Math Module** : Built-in Python Library used for column calculations in the Scytale Cipher
-- **Pyinstaller** : Used to compile the final `.exe` application
+- **`Pyinstaller`** : Used to compile the final `.exe` application
 
-*While designing the program, it was kept in mind to utilize minimum number of external modules and libraries so that most of the code consists of pure python and understanding the code could be easy*
+*`While designing the program, it was kept in mind to utilize minimum number of external modules and libraries so that most of the code consists of pure python and understanding the code could be easy`*
 
 ## Steps to Install & Run the Project
 ### Prerequisites: 
-Python 3.10+ via the official Python installer
+`Python 3.10+` via the official Python installer
 ### Running the Source Code
 1. Clone or download the repository to your local machine
 2. Open terminal and navigate to project directory
-3. Both CLI and GUI versions could run through ide if the dependencies are installed *(All that is listed in tools used)*
+3. Both `CLI` and `GUI` versions could run through ide if the dependencies are installed *(All that is listed in tools used)*
 ### Running the Executable
 GUI version of the program can be directly opened through the `.exe` file in the folder `dist` found inside the releases folder
 
 ## Instructions for Testing
-1. Launch the application, either versions work, (GUI is recommanded)
+1. Launch the application, either versions work, (GUI is recommended)
 2. Select a Cipher via dropdown or the list
 3. Input Data in the input box or field
 4. Configure Parameters as per the cipher; `key`, `diameter`, `shift` might be required in some ciphers
@@ -60,7 +60,7 @@ GUI version of the program can be directly opened through the `.exe` file in the
 3. Paste the result in the input box / field and decrypt it
 4. Verify if the original string is restored in the output box
 
-**Test Edge Cases:** Input numbers, special characters or empty strings, all of these could be tackled by the `run_safely` wrapper and alpha-checks. Any kind of crash can be tackled through the help of try and except blocks too.
+**Test Edge Cases:** Input numbers, special characters or empty strings, all of these could be tackled by the `run_safely` wrapper and `alpha-checks`. Any kind of crash can be tackled through the help of `try` and `except` blocks too.
 
 # Screenshots
 <img width="1360" height="1790" alt="#1-vtpj" src="https://github.com/user-attachments/assets/121f4472-578a-4ece-b19a-06484ddcb4d4" />
