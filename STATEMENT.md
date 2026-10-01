@@ -3,7 +3,7 @@ In the realm of cryptography education and hobbyist code-breaking, individuals o
 
 ## Scope of Project
 The scope of `Simple Cryptographer` encompasses the design, development and deployment of a local python application that performs bidirectional text translations for 10 classical ciphers.
-The project includes two type of versions, where one consists of a command-line-interface design and other offers a fully functional graphical user interface.
+The project includes two type of versions,  where one consists of a command-line-interface design and other offers a fully functional graphical user interface.
 
 The project is strictly limited to classic, text-based cryptographic algorithms for most of the ciphers, operating on the time complexity `O(n)`
 The scope excludes modern encryption standards such as AES, RSA, SHA, Network based communication, file-level-data encryption or sharing features.
