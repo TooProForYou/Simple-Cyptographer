@@ -1,4 +1,5 @@
 # Simple-Cryptographer
+![Python 3.10+](https://img.shields.io/badge/python-required-green)
 ![Math](https://img.shields.io/badge/math-required-orange)
 ![Tkinter](https://img.shields.io/badge/tkinter-required-orange)
 <img width="1158" height="787" alt="Screenshot 2026-09-26 154032" src="https://github.com/user-attachments/assets/947c5164-ffb5-4e40-b717-cb27cf244197" />
